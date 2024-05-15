@@ -1,0 +1,17 @@
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\bin\Release\net8.0\03.celilcavus.Models.deps.json
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\bin\Release\net8.0\03.celilcavus.Models.dll
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\bin\Release\net8.0\03.celilcavus.Models.pdb
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\bin\Release\net8.0\01.celilcavus.Entity.dll
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\bin\Release\net8.0\02.celilcavus.DbContexts.dll
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\bin\Release\net8.0\01.celilcavus.Entity.pdb
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\bin\Release\net8.0\02.celilcavus.DbContexts.pdb
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\obj\Release\net8.0\03.celilcavus.Models.csproj.AssemblyReference.cache
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\obj\Release\net8.0\03.celilcavus.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\obj\Release\net8.0\03.celilcavus.Models.AssemblyInfoInputs.cache
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\obj\Release\net8.0\03.celilcavus.Models.AssemblyInfo.cs
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\obj\Release\net8.0\03.celilcavus.Models.csproj.CoreCompileInputs.cache
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\obj\Release\net8.0\03.celil.5C85C4DB.Up2Date
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\obj\Release\net8.0\03.celilcavus.Models.dll
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\obj\Release\net8.0\refint\03.celilcavus.Models.dll
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\obj\Release\net8.0\03.celilcavus.Models.pdb
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\03.celilcavus.Models\obj\Release\net8.0\ref\03.celilcavus.Models.dll

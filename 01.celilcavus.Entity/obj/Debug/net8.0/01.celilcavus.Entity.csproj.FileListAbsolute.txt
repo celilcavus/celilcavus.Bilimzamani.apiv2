@@ -1,0 +1,12 @@
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\bin\Debug\net8.0\01.celilcavus.Entity.deps.json
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\bin\Debug\net8.0\01.celilcavus.Entity.dll
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\bin\Debug\net8.0\01.celilcavus.Entity.pdb
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\obj\Debug\net8.0\01.celilcavus.Entity.csproj.AssemblyReference.cache
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\obj\Debug\net8.0\01.celilcavus.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\obj\Debug\net8.0\01.celilcavus.Entity.AssemblyInfoInputs.cache
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\obj\Debug\net8.0\01.celilcavus.Entity.AssemblyInfo.cs
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\obj\Debug\net8.0\01.celilcavus.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\obj\Debug\net8.0\01.celilcavus.Entity.dll
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\obj\Debug\net8.0\refint\01.celilcavus.Entity.dll
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\obj\Debug\net8.0\01.celilcavus.Entity.pdb
+C:\Users\Celil\source\repos\celilcavus.bilimzamanitr.API\01.celilcavus.Entity\obj\Debug\net8.0\ref\01.celilcavus.Entity.dll

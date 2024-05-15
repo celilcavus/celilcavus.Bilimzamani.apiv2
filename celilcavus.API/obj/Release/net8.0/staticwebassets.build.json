@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "mMCDX9M9QZvlkXbTX98OSninXhd4UcZ1aGIs559svjg=",
+  "Source": "celilcavus.API",
+  "BasePath": "_content/celilcavus.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "celilcavus.API\\wwwroot",
+      "Source": "celilcavus.API",
+      "ContentRoot": "C:\\Users\\Celil\\source\\repos\\celilcavus.bilimzamanitr.API\\celilcavus.API\\wwwroot\\",
+      "BasePath": "_content/celilcavus.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Celil\\source\\repos\\celilcavus.bilimzamanitr.API\\celilcavus.API\\wwwroot\\Author\\9f1ef06e-86dc-49ff-bc78-729cf9af3b8f.png",
+      "SourceId": "celilcavus.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Celil\\source\\repos\\celilcavus.bilimzamanitr.API\\celilcavus.API\\wwwroot\\",
+      "BasePath": "_content/celilcavus.API",
+      "RelativePath": "Author/9f1ef06e-86dc-49ff-bc78-729cf9af3b8f.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Author\\9f1ef06e-86dc-49ff-bc78-729cf9af3b8f.png"
+    }
+  ]
+}

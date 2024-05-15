@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Celil\\source\\repos\\celilcavus.bilimzamanitr.API\\celilcavus.API\\wwwroot\\Author\\9f1ef06e-86dc-49ff-bc78-729cf9af3b8f.png",
+      "PackagePath": "staticwebassets\\Author\\9f1ef06e-86dc-49ff-bc78-729cf9af3b8f.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.celilcavus.API.props",
+      "PackagePath": "build\\celilcavus.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.celilcavus.API.props",
+      "PackagePath": "buildMultiTargeting\\celilcavus.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.celilcavus.API.props",
+      "PackagePath": "buildTransitive\\celilcavus.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.celilcavus.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
